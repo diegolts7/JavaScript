@@ -1,0 +1,2 @@
+//Escreva uma função chamada verificarPropriedade que aceita um objeto e uma string como argumentos 
+//e verifica se a propriedade especificada existe no objeto. Retorne verdadeiro se existir e falso caso contrário.

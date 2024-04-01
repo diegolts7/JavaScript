@@ -1,4 +1,3 @@
-console.log("oiiiiii")
 let string = ['diego','oiiii']
 console.log(string)
 class retangulo {
